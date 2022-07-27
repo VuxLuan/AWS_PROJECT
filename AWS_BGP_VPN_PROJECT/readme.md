@@ -1,4 +1,4 @@
-In this project you will get the chance to implement a Dynamic, BGP Based, Highly-Available Site-to-Site VPN The demo simulates a Hybrid AWS and On-premises environment - both using AWS.
+In this project I got the chance to implement a Dynamic, BGP Based, Highly-Available Site-to-Site VPN between The Hybrid AWS and On-premises environment.
 
 The project consists of 5 stages, each implementing additional components of the architecture
 
