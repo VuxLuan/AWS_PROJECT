@@ -2,5 +2,5 @@
 zone "aws.animals4life.org" { 
   type forward; 
   forward only;
-  forwarders { INBOUND_ENDPOINT_IP1; INBOUND_ENDPOINT_IP2; }; 
+  forwarders { 10.16.36.249; 10.16.96.102; }; 
 };
